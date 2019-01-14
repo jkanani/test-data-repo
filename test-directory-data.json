@@ -1,0 +1,101 @@
+[
+    {
+      "Id": 1,
+      "Name": "alpha-1 Antitrypsin",
+      "TestCode": "AAT",
+      "AlternativeNames" : "AAT",
+      "IsUnderReview": false,
+      "Laboratory": "Clinical Biochemistry",
+      "IsSendAwayTest": true
+  },
+  {
+    "Id": 2,
+    "Name": "B Cell Quantitation",
+    "TestCode": "BCQ",
+    "AlternativeNames" : "",
+    "IsUnderReview": false,
+    "Laboratory": "Haematology",
+    "IsSendAwayTest": false
+  },
+  {
+    "Id": 3,
+    "Name": "c-KIT",
+    "TestCode": "PMC",
+    "AlternativeNames" : "",
+    "IsUnderReview": false,
+    "Laboratory": "Haematology",
+    "IsSendAwayTest": true
+  },
+  {
+    "Id": 4,
+    "Name": "D-Dimer",
+    "TestCode": "DD",
+    "AlternativeNames" : "",
+    "IsUnderReview": true,
+    "Laboratory": "Haematology",
+    "IsSendAwayTest": false
+  },
+  {
+    "Id": 5,
+    "Name": "EBV Serology",
+    "TestCode": "EEG, EVG, EVM",
+    "AlternativeNames" : "Epstein Barr Virus Serology",
+    "IsUnderReview": false,
+    "Laboratory": "Clinical Biochemistry",
+    "IsSendAwayTest": true
+  },
+  {
+    "Id": 6,
+    "Name": "Factor II",
+    "TestCode": "F2",
+    "AlternativeNames" : "F2",
+    "IsUnderReview": false,
+    "Laboratory": "Haematology",
+    "IsSendAwayTest": false
+  },
+  {
+    "Id": 7,
+    "Name": "G6PD Quantitation",
+    "TestCode": "RCH",
+    "AlternativeNames" : "Glucose-6-Phosphate Dehydrogenase Quantitation",
+    "IsUnderReview": false,
+    "Laboratory": "Haematology",
+    "IsSendAwayTest": true
+  },
+  {
+    "Id": 8,
+    "Name": "Helicobacter pylori culture",
+    "TestCode": "MON",
+    "AlternativeNames" : "H.pylori culture",
+    "IsUnderReview": false,
+    "Laboratory": "Microbiology",
+    "IsSendAwayTest": true
+  },
+  {
+    "Id": 9,
+    "Name": "JAK2 Kinase Mutation ",
+    "TestCode": "PMC",
+    "AlternativeNames" : "Exon 12 mutation",
+    "IsUnderReview": false,
+    "Laboratory": "Haematology",
+    "IsSendAwayTest": false
+  },
+  {
+    "Id": 10,
+    "Name": "Potassium (Part of ELY and UEC)",
+    "TestCode": "POT",
+    "AlternativeNames" : "K",
+    "IsUnderReview": false,
+    "Laboratory": "Clinical Biochemistry",
+    "IsSendAwayTest": false
+  },
+  {
+    "Id": 11,
+    "Name": "Lactate",
+    "TestCode": "GAS",
+    "AlternativeNames" : "",
+    "IsUnderReview": false,
+    "Laboratory": "Clinical Biochemistry",
+    "IsSendAwayTest": false
+  }
+  ]
